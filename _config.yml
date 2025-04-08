@@ -1,0 +1,20 @@
+title: "Suinan Xiao"
+description: "Personal Website"
+url: "" # Leave empty for local development
+
+theme: minimal-mistakes-jekyll
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-include-cache
+
+minimal_mistakes_skin: "default"
+
+author:
+  name: "Suinan Xiao"
+  avatar: "/assets/images/profile.jpg"  # You can update this later
+  bio: "I do cool science and code."
+
+header_pages:
+  - about.md
