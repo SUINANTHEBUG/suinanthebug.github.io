@@ -1,6 +1,6 @@
 title: "Suinan Xiao"
 description: "Personal Website"
-url: "https://suinanthebug.github.io"
+url: "" # Leave empty for local development
 
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "default"
